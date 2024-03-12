@@ -1,0 +1,15 @@
+.country{
+    border: 2px solid skyblue;
+    padding: 15px;
+    margin: 15px;
+    border-radius: 15px;
+    -webkit-box-shadow: 9px 9px 60px -11px rgba(0,0,0,0.66);
+    -moz-box-shadow: 9px 9px 60px -11px rgba(0,0,0,0.66);
+    box-shadow: 9px 9px 60px -11px rgba(0,0,0,0.66);
+    transition: all 1s ease-in-out;
+}
+.country:hover{
+    -webkit-box-shadow: 9px 9px 33px -8px rgba(255,255,255,1);
+    -moz-box-shadow: 9px 9px 33px -8px rgba(255,255,255,1);
+    box-shadow: 9px 9px 33px -8px rgba(255,255,255,1);
+}
